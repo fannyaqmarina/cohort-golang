@@ -1,0 +1,30 @@
+[{
+    "email": "john.doe@example.com",
+    "address": "123 Mail St. Cityville, USA",
+    "job": "Software Engineer",
+    "reason":"sunshine and warmth"
+},
+{
+    "email": "jane.smith@example.com",
+    "address": "California",
+    "job": "Surfer",
+    "reason":"beach and sunshine"
+},
+{
+    "email": "michael.johnson@example.com",
+    "address": "Manhattan",
+    "job": "Lawyer",
+    "reason":"Book and coffe"
+},
+{
+    "email": "sarah.wilson@example.com",
+    "address": "Hollywood",
+    "job": "Actress",
+    "reason":"Beauty and Healthy"
+},
+{
+    "email": "robert.wilson@example.com",
+    "address": "Brooklyn",
+    "job": "Personal Assistant",
+    "reason":"Sleep and Food"
+}]
